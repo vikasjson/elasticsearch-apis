@@ -3,7 +3,7 @@
 // 1. Below is the requirements to create a index
 
 // Method: PUT
-// URL: hostname/index_name
+// URL: hostname/index_name         // After the host name give the index name you want to create
 // body:
 
 // {
